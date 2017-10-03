@@ -1,0 +1,1 @@
+The shell script contains code required to read in an arbitrary amount of 10Gbps Ethernet packets from UDP formatter logic in the Zynq PL. Configuration of the Zynq in Minicom is done by launching CW-Signal first, then followed by the Si5324 config and the various registers required to make the data flow. A test pcap file is attached.
